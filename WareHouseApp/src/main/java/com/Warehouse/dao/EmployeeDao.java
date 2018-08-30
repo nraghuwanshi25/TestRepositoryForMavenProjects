@@ -15,7 +15,7 @@ public class EmployeeDao {
 	public Employee getEmployeeData()
 	{
 		Employee employee = new Employee(10,"colgate123","MCA","Indore");
-		System.out.println("employee dao called test");
+		System.out.println("employee dao called test123");
 		return employee;
 	}
 			
